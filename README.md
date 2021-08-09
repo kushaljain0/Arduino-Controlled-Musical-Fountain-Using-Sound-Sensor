@@ -1,6 +1,9 @@
-# Arduino-Controlled-Musical-Fountain-Using-Sound-Sensor
+# Arduino Controlled Musical Fountain Using Sound Sensor
 
 ![IMG_20210808_181935](https://user-images.githubusercontent.com/75775994/128745203-6485b0b5-e98f-4843-80e8-70c28bc18946.jpg)
+
+![IMG_20210808_174631](https://user-images.githubusercontent.com/75775994/128746654-50df2fe3-b015-4a7b-9c20-eaf3cfa14535.jpg)
+
 
 ## List of Components -->
 1. Arduino UNO Microcontroller 
